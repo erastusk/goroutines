@@ -9,7 +9,7 @@ Unbuffered go routines
 ## go_routines_wg
 goroutines using Waitgroups
 
-## go_routines_gaterdata
+## go_routines_gatterdata
 Data aggregation using goroutines
 
 ## go_routines_MockhttpServer
